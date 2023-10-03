@@ -1,4 +1,4 @@
-import logo from "../../../public/blog2.png"
+import logo from "../../assests/logo.png"
 
 export default function NavbarWithDropdown() {
     return (
