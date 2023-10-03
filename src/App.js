@@ -1,10 +1,9 @@
-import logo from './logo.svg';
 import './App.css';
-import NavbarWithDropdown from './components/Home/Navbar';
+import { NavbarDefault } from './components/Utils/NavbarDefault';
 
 function App() {
   return (
-    <NavbarWithDropdown />
+    <NavbarDefault />
   );
 }
 
